@@ -2,9 +2,9 @@
 
 USAGE : ./imageCompressor n e path
 
-n   =   Nombre de couleurs de l'image désirée
+n   =   Nombre de couleurs de l'image désirée (Int)
 
-e   =   Limite de convergence (Plus la valeur est faible, plus le résultat sera précis, et plus le processus sera long)
+e   =   Limite de convergence (Plus la valeur est faible, plus le résultat sera précis, et plus le processus sera long) (Float)
 
 IN  =   Chemin vers le fichier contenant les couleurs des pixels
 
