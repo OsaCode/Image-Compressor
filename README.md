@@ -6,7 +6,9 @@ n   =   Nombre de couleurs de l'image désirée
 e   =   Limite de convergence (Plus la valeur est faible, plus le résultat sera précis, et plus le processus sera long)
 IN  =   Chemin vers le fichier contenant les couleurs des pixels
 
-EXEMPLE : ./imageCompressor 2 0.8 exemple.in
+EXEMPLE :   ./imageCompressor 2 0.8 exemple.in
+
+FORMAT  :   (X,Y) (R,G,B)\n[...]
 
 IN EXEMPLE : cat exemple.in
 (0,1) (98,99,233)
